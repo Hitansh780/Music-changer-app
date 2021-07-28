@@ -1,0 +1,48 @@
+body {
+ background-size: cover;   
+}
+
+.heading  {
+ width: 100%;
+ margin: 0px;
+ font-size: 23px;   
+}
+
+.note {
+ color: black;
+ font-size: 15px;
+ font-weight: bold;   
+}
+
+.div_speed {
+   float: left;  
+}
+
+.hghgh {
+ border-radius: 100px;
+ width: 200px;
+}
+
+#e {
+ font-size: 23px;
+ color: yellow;   
+}
+
+.div_volume {
+  float: right;  
+}
+
+#f {
+  font-size: 23px;
+  color: yellow;  
+}
+
+.mm {
+   border: 100px;
+   width: 200px; 
+}
+    
+canvas {
+ border-radius: 20px;
+ border: solid black 10px; 
+}
